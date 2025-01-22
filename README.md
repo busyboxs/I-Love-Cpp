@@ -20,3 +20,4 @@
 
 * [GraphicsMagick](http://www.graphicsmagick.org/): GraphicsMagick is the swiss army knife of image processing
 * [FileCentipede](https://sourceforge.net/projects/filecentipede/): File centipede is an internet file download/upload manager, Torrent client, WebDAV client, FTP client, and SSH client
+* [GParted](https://gparted.org/development.php): [[Code](https://gitlab.gnome.org/GNOME/gparted/tree/master)] GParted is a free partition editor for graphically managing your disk partitions.
