@@ -23,10 +23,19 @@
 * [spdlog](https://github.com/gabime/spdlog): Fast C++ logging library
 * [quill](https://github.com/odygrd/quill): Asynchronous Low Latency C++ Logging Library
 
+### Json parser
+
+* [simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+* [glaze](https://github.com/stephenberry/glaze): Extremely fast, in memory, JSON and interface library for modern C++
+
 ## Tools
 
+* [albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
+* [fhash](https://github.com/sunjw/fhash): fHash - an open source files hash calculator for Windows and macOS
 * [FileCentipede](https://sourceforge.net/projects/filecentipede/): File centipede is an internet file download/upload manager, Torrent client, WebDAV client, FTP client, and SSH client
 * [GraphicsMagick](http://www.graphicsmagick.org/): GraphicsMagick is the swiss army knife of image processing
 * [GParted](https://gparted.org/development.php): [[Code](https://gitlab.gnome.org/GNOME/gparted)] GParted is a free partition editor for graphically managing your disk partitions.
+* [osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.
+* [PeaZip](https://peazip.github.io/): [[Code](https://peazip.github.io/peazip-sources.html)] [[Code](https://github.com/peazip/PeaZip)] PeaZip is a free archiver tool. The application provides an unified, natively portable, cross-platform file manager and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
 * [sqlitestudio](https://sqlitestudio.pl/): [[Code](https://github.com/pawelsalawa/sqlitestudio)] A free, open source, multi-platform SQLite database manager.
 * [WinDirStat](https://windirstat.net/): [[Code](https://github.com/windirstat/windirstat)] WinDirStat is a disk usage statistics viewer and cleanup assistant for Microsoft Windows clients and servers.
