@@ -6,6 +6,7 @@
 
 * [magic_enum](https://github.com/Neargye/magic_enum): Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 * [re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
 
 ### Image
 
@@ -35,7 +36,9 @@
 * [FileCentipede](https://sourceforge.net/projects/filecentipede/): File centipede is an internet file download/upload manager, Torrent client, WebDAV client, FTP client, and SSH client
 * [GraphicsMagick](http://www.graphicsmagick.org/): GraphicsMagick is the swiss army knife of image processing
 * [GParted](https://gparted.org/development.php): [[Code](https://gitlab.gnome.org/GNOME/gparted)] GParted is a free partition editor for graphically managing your disk partitions.
+* [mixxx](https://github.com/mixxxdj/mixxx): Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 * [osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.
 * [PeaZip](https://peazip.github.io/): [[Code](https://peazip.github.io/peazip-sources.html)] [[Code](https://github.com/peazip/PeaZip)] PeaZip is a free archiver tool. The application provides an unified, natively portable, cross-platform file manager and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
 * [sqlitestudio](https://sqlitestudio.pl/): [[Code](https://github.com/pawelsalawa/sqlitestudio)] A free, open source, multi-platform SQLite database manager.
+* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB): A lightweight utility that makes the Windows taskbar translucent/transparent.
 * [WinDirStat](https://windirstat.net/): [[Code](https://github.com/windirstat/windirstat)] WinDirStat is a disk usage statistics viewer and cleanup assistant for Microsoft Windows clients and servers.
