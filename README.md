@@ -13,10 +13,6 @@
 * [libvips](https://github.com/libvips/libvips): A fast image processing library with low memory needs.
 * [opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
 
-## website
-
-* [QtBuilds](https://sourceforge.net/projects/fsu0413-qtbuilds/): Build Qt with OpenSSL linked, Multi-platform supported
-
 ### Log Libraries
 
 * [fmtlog](https://github.com/MengRao/fmtlog): fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
@@ -28,6 +24,20 @@
 
 * [simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [glaze](https://github.com/stephenberry/glaze): Extremely fast, in memory, JSON and interface library for modern C++
+
+### Others
+
+* [expected-lite](https://github.com/martinmoene/expected-lite): expected lite - Expected objects in C++11 and later in a single-file header-only library
+* [outcome](https://github.com/ned14/outcome): Provides very lightweight `outcome<T>` and `result<T>` (non-Boost edition)
+* [subprocess.h](https://github.com/sheredom/subprocess.h): 🐜 single header process launching solution for C and C++
+
+----
+
+## website
+
+* [QtBuilds](https://sourceforge.net/projects/fsu0413-qtbuilds/): Build Qt with OpenSSL linked, Multi-platform supported
+
+----
 
 ## Tools
 
