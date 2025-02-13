@@ -47,6 +47,8 @@
 * [GraphicsMagick](http://www.graphicsmagick.org/): GraphicsMagick is the swiss army knife of image processing
 * [GParted](https://gparted.org/development.php): [[Code](https://gitlab.gnome.org/GNOME/gparted)] GParted is a free partition editor for graphically managing your disk partitions.
 * [mixxx](https://github.com/mixxxdj/mixxx): Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+* [MuPDF](https://mupdf.com/): [[code](https://github.com/ArtifexSoftware/mupdf)] MuPDF is a lightweight open source software framework for viewing and converting
+PDF, XPS, and E-book documents.
 * [osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.
 * [PeaZip](https://peazip.github.io/): [[Code](https://peazip.github.io/peazip-sources.html)] [[Code](https://github.com/peazip/PeaZip)] PeaZip is a free archiver tool. The application provides an unified, natively portable, cross-platform file manager and archive manager GUI for many Open Source technologies like 7-Zip, FreeArc, PAQ, UPX.
 * [sqlitestudio](https://sqlitestudio.pl/): [[Code](https://github.com/pawelsalawa/sqlitestudio)] A free, open source, multi-platform SQLite database manager.
