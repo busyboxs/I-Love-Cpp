@@ -30,6 +30,7 @@
 * [expected-lite](https://github.com/martinmoene/expected-lite): expected lite - Expected objects in C++11 and later in a single-file header-only library
 * [outcome](https://github.com/ned14/outcome): Provides very lightweight `outcome<T>` and `result<T>` (non-Boost edition)
 * [subprocess.h](https://github.com/sheredom/subprocess.h): 🐜 single header process launching solution for C and C++
+* [units](https://github.com/nholthaus/units): a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 
 ----
 
