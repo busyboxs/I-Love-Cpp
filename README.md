@@ -27,6 +27,7 @@
 
 ### Others
 
+* [cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 * [expected-lite](https://github.com/martinmoene/expected-lite): expected lite - Expected objects in C++11 and later in a single-file header-only library
 * [outcome](https://github.com/ned14/outcome): Provides very lightweight `outcome<T>` and `result<T>` (non-Boost edition)
 * [subprocess.h](https://github.com/sheredom/subprocess.h): 🐜 single header process launching solution for C and C++
@@ -48,6 +49,7 @@
 * [GraphicsMagick](http://www.graphicsmagick.org/): GraphicsMagick is the swiss army knife of image processing
 * [GParted](https://gparted.org/development.php): [[Code](https://gitlab.gnome.org/GNOME/gparted)] GParted is a free partition editor for graphically managing your disk partitions.
 * [mixxx](https://github.com/mixxxdj/mixxx): Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+* [Krita](https://krita.org/): [[code](https://invent.kde.org/graphics/krita)] Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 * [MuPDF](https://mupdf.com/): [[code](https://github.com/ArtifexSoftware/mupdf)] MuPDF is a lightweight open source software framework for viewing and converting
 PDF, XPS, and E-book documents.
 * [osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.
