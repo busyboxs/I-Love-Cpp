@@ -22,8 +22,9 @@
 
 ### Json parser
 
-* [simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 * [glaze](https://github.com/stephenberry/glaze): Extremely fast, in memory, JSON and interface library for modern C++
+* [json](https://github.com/taocpp/json): taoJSON is a C++ header-only JSON library that provides a generic Value Class, uses Type Traits to interoperate with C++ types, uses an Events Interface to convert from and to JSON, JAXN, CBOR, MsgPack and UBJSON, and much more...
+* [simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
 ### Others
 
