@@ -44,11 +44,21 @@
 
 ## Tools
 
+### Text Search
+
+* [fsearch](https://cboxdoerfer.github.io/fsearch/): FSearch is a fast file search utility, inspired by Everything Search Engine.
+* [Recoll](https://www.recoll.org/index.html): Full-text search for your desktop
+* [Xapian](https://xapian.org/): Xapian is an Open Source Search Engine Library
+
+### Other
+
+* [AIM Toolkit](https://sourceforge.net/projects/aim-toolkit/): This tool is dedicated to ramdisk creation and mounting of image files of hard drive or cd-rom.
 * [albert](https://github.com/albertlauncher/albert): A fast and flexible keyboard launcher
 * [fhash](https://github.com/sunjw/fhash): fHash - an open source files hash calculator for Windows and macOS
 * [FileCentipede](https://sourceforge.net/projects/filecentipede/): File centipede is an internet file download/upload manager, Torrent client, WebDAV client, FTP client, and SSH client
 * [GraphicsMagick](http://www.graphicsmagick.org/): GraphicsMagick is the swiss army knife of image processing
 * [GParted](https://gparted.org/development.php): [[Code](https://gitlab.gnome.org/GNOME/gparted)] GParted is a free partition editor for graphically managing your disk partitions.
+* [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/): This tool will let you mount image files of hard drive, cd-rom or floppy, and create ramdisks with various parameters.
 * [mixxx](https://github.com/mixxxdj/mixxx): Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 * [Krita](https://krita.org/): [[code](https://invent.kde.org/graphics/krita)] Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 * [MuPDF](https://mupdf.com/): [[code](https://github.com/ArtifexSoftware/mupdf)] MuPDF is a lightweight open source software framework for viewing and converting
