@@ -32,6 +32,7 @@
 * [expected-lite](https://github.com/martinmoene/expected-lite): expected lite - Expected objects in C++11 and later in a single-file header-only library
 * [outcome](https://github.com/ned14/outcome): Provides very lightweight `outcome<T>` and `result<T>` (non-Boost edition)
 * [subprocess.h](https://github.com/sheredom/subprocess.h): 🐜 single header process launching solution for C and C++
+* [uchardet](https://www.freedesktop.org/wiki/Software/uchardet/): uchardet is an encoding detector library, which takes a sequence of bytes in an unknown character encoding without any additional information, and attempts to determine the encoding of the text. Returned encoding names are iconv-compatible.
 * [units](https://github.com/nholthaus/units): a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 * [ecal](https://github.com/eclipse-ecal/ecal): eCAL - enhanced Communication Abstraction Layer. A high performance publish-subscribe, client-server cross-plattform middleware.
 
