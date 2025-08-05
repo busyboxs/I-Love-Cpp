@@ -26,6 +26,10 @@
 * [json](https://github.com/taocpp/json): taoJSON is a C++ header-only JSON library that provides a generic Value Class, uses Type Traits to interoperate with C++ types, uses an Events Interface to convert from and to JSON, JAXN, CBOR, MsgPack and UBJSON, and much more...
 * [simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
+### Qt
+
+* [QCustomPlot](https://www.qcustomplot.com/index.php/introduction): QCustomPlot is a Qt C++ widget for plotting and data visualization. It has no further dependencies and is well documented. This plotting library focuses on making good looking, publication quality 2D plots, graphs and charts, as well as offering high performance for realtime visualization applications.
+
 ### Others
 
 * [cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
