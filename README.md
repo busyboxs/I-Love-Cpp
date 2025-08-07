@@ -7,6 +7,7 @@
 * [magic_enum](https://github.com/Neargye/magic_enum): Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 * [re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 * [StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
+* [DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, financial, and ML analysis in modern C++
 
 ### Image
 
